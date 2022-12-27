@@ -10,7 +10,7 @@ class Solution {
         	//짝수 만들기
             if(longNum%2==0){
                 longNum=longNum/2;
-            }
+            } 
             //홀수 만들기
             else{
                 longNum=longNum*3+1;
